@@ -27,4 +27,5 @@ https://live.tv-m.net/hls/stream.m3u8
 https://restreamer1.tnt.ba/hls/tntkids.m3u8
 #EXTINF:-1 tvg-id="TVSlonExtra.ba" tvg-logo="https://i.imgur.com/AohYgH1.png" group-title="Undefined",TV Slon Extra (1080p) [Not 24/7]
 http://31.47.0.130:8082
-#EXTINF:-1,OBN http://109.182.9.186:1234/udp/232.4.3.48:5002
+
+#EXTINF:-1 tvg-id="21" tvg-name "FACE TV" tvg-logo/noicon.png" group title "Nacionalni, FACE TV FACE TV http://www.nasatv.eu:80/live?channelId=21&uid=5&deviceUser amer&devicePaan amor
